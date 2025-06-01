@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056414915379",
+    "project_id": "foro2-5743a",
+    "storage_bucket": "foro2-5743a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056414915379:android:d44c01d395eac116d33c46",
+        "android_client_info": {
+          "package_name": "com.udb.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056414915379-g967beeco0vesve4j9r8ja4s67n3ebjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0yu78qgEaAR9gBbW2RmFwMhzeG46XwuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056414915379-g967beeco0vesve4j9r8ja4s67n3ebjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
